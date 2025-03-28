@@ -215,3 +215,4 @@ desktop.ini.meta
 # Log files can be ignored.
 fmod_editor.log
 .vscode
+.vs
