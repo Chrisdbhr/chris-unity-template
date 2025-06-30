@@ -11,17 +11,6 @@
       },
       "hash": "f7df4966aa30482fb739148aba2bc7bc672dfaf6"
     },
-    "com.chrisdbhr.cdk": {
-      "version": "https://github.com/Chrisdbhr/CDK.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "jillejr.newtonsoft.json-for-unity.converters": "1.6.3",
-        "com.gustavopsantos.reflex": "9.0.1"
-      },
-      "hash": "c87fd80503cc08184c244725e656e32d7797d710"
-    },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,
@@ -29,19 +18,15 @@
       "dependencies": {},
       "hash": "8042b29ff87dd5506d7aad72bd6d8d7405985f27"
     },
-    "com.gitamend.unityutils": {
-      "version": "https://github.com/adammyhre/Unity-Utils.git",
+    "com.enigmaticcomma.core": {
+      "version": "https://github.com/EnigmaticComma/EnigmaCore.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {},
-      "hash": "e4b9e79ebbc3d490bd19cc41b7d71b7012c6346c"
-    },
-    "com.gustavopsantos.reflex": {
-      "version": "https://github.com/gustavopsantos/reflex.git?path=/Assets/Reflex/#9.0.1",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "f3618e0697d979051efe866cafa954bdf0b7b46e"
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "jillejr.newtonsoft.json-for-unity.converters": "1.6.3"
+      },
+      "hash": "6419e2bcfb687c9b8021daa5ca125a49d38f7a9e"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
@@ -59,7 +44,7 @@
       }
     },
     "com.unity.ai.navigation": {
-      "version": "2.0.5",
+      "version": "2.0.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -78,7 +63,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.18",
+      "version": "1.8.19",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -146,7 +131,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "17.0.3",
+      "version": "17.0.4",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
@@ -161,12 +146,12 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "17.0.3",
+      "version": "17.0.4",
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "17.0.3",
-        "com.unity.shadergraph": "17.0.3",
+        "com.unity.render-pipelines.core": "17.0.4",
+        "com.unity.shadergraph": "17.0.4",
         "com.unity.render-pipelines.universal-config": "17.0.3"
       }
     },
@@ -189,11 +174,10 @@
       }
     },
     "com.unity.searcher": {
-      "version": "4.9.2",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
+      "version": "file:com.unity.searcher@4.9.2",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.services.analytics": {
       "version": "6.0.1",
@@ -218,16 +202,16 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "17.0.3",
+      "version": "17.0.4",
       "depth": 1,
       "source": "builtin",
       "dependencies": {
-        "com.unity.render-pipelines.core": "17.0.3",
-        "com.unity.searcher": "4.9.2"
+        "com.unity.render-pipelines.core": "17.0.4",
+        "com.unity.searcher": "4.9.3"
       }
     },
     "com.unity.test-framework": {
-      "version": "1.4.5",
+      "version": "1.4.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -269,7 +253,7 @@
       }
     },
     "com.unity.xr.legacyinputhelpers": {
-      "version": "2.1.11",
+      "version": "2.1.12",
       "depth": 0,
       "source": "registry",
       "dependencies": {
