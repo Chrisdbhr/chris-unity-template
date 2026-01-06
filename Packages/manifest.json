@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "com.annulusgames.lit-motion": "https://github.com/AnnulusGames/LitMotion.git?path=src/LitMotion/Assets/LitMotion",
-    "com.enigmaticcomma.core": "https://github.com/EnigmaticComma/EnigmaCore.git",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.enigmaticcomma.core": "https://github.com/EnigmaticComma/EnigmaCore.git#5.6.1",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ai.navigation": "2.0.6",
@@ -12,6 +12,7 @@
     "com.unity.render-pipelines.universal": "17.0.4",
     "com.unity.test-framework": "1.4.6",
     "com.unity.timeline": "1.8.7",
+    "com.unity.inputsystem": "1.17.0",
     "com.unity.ugui": "2.0.0",
     "com.unity.xr.legacyinputhelpers": "2.1.12",
     "jillejr.newtonsoft.json-for-unity.converters": "https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters.git#1.6.3",
