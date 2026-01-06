@@ -19,7 +19,7 @@
       "hash": "8042b29ff87dd5506d7aad72bd6d8d7405985f27"
     },
     "com.enigmaticcomma.core": {
-      "version": "https://github.com/EnigmaticComma/EnigmaCore.git",
+      "version": "https://github.com/EnigmaticComma/EnigmaCore.git#5.6.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -106,6 +106,15 @@
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.17.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
