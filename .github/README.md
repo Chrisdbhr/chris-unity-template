@@ -1,7 +1,7 @@
 <div align="center">
 <img src="header.webp" alt="header" width="100%">
 
-# Chris-Unity-Template
+# Chris Unity Template
 
 </div>
 
