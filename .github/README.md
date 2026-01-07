@@ -1,6 +1,4 @@
 <div align="center">
-<img src="header.webp" alt="header" width="100%">
-
 <img src="https://cms.chrisjogos.com/assets/bb8e78e1-3ffd-40bd-b04c-9b5ef4b0dff4?format=webp" />
 
 # Chris Unity Template
