@@ -2,7 +2,7 @@
   "dependencies": {
     "com.annulusgames.lit-motion": "https://github.com/AnnulusGames/LitMotion.git?path=src/LitMotion/Assets/LitMotion",
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-    "com.enigmaticcomma.core": "https://github.com/EnigmaticComma/EnigmaCore.git#5.6.1",
+    "com.enigmaticcomma.core": "https://github.com/EnigmaticComma/EnigmaCore.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ai.navigation": "2.0.10",

@@ -19,13 +19,13 @@
       "hash": "8042b29ff87dd5506d7aad72bd6d8d7405985f27"
     },
     "com.enigmaticcomma.core": {
-      "version": "https://github.com/EnigmaticComma/EnigmaCore.git#5.6.1",
+      "version": "https://github.com/EnigmaticComma/EnigmaCore.git",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "6cc2794394cd047d80f1b917239f1f05137ba842"
+      "hash": "940d40d74c00bc4a2c858319a8ae71d81c96d467"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
