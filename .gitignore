@@ -216,3 +216,5 @@ desktop.ini.meta
 fmod_editor.log
 .vscode
 .vs
+.utmp
+Assets/_Recovery
