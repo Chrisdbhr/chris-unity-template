@@ -217,4 +217,5 @@ fmod_editor.log
 .vscode
 .vs
 .utmp
-Assets/_Recovery
+/[Aa]ssets/_Recovery
+/[Aa]ssets/_Recovery.meta
